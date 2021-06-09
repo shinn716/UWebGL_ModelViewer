@@ -25,3 +25,6 @@ https://caniuse.com/webgl2
 2. https://github.com/ousttrue/UniGLTF
 3. https://github.com/Rufus31415/Simple-WebXR-Unity (Not test yet) 
 4. Post-processing 3 (From package manager)
+
+## License
+[MIT](https://github.com/shinn716/UWebGL_ModelViewer/blob/main/LICENSE)

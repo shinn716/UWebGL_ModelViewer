@@ -2,7 +2,7 @@
 ![image info](https://github.com/shinn716/UWebGL_ModelViewer/blob/main/images/gif01.gif)  
 
 Unity WebGL - Model Viewer  
-Worked fine in Unity 2019.4.46f1.  
+Worked fine in Unity 2019.4.26f1.  
   
 Responsive-webgl-template bug fix fllowed from  
 https://gist.github.com/shinn716/519cbc79b2b6a5847b855ea43188d036.

@@ -19,19 +19,19 @@ https://sketchfab.com/3d-models/tr-66-rhythm-arranger-b58a105480dc4785ad39a31554
 6. Support GLTF.
 7. Ignore webgl-warning for mobile.
 
-## Control (Like sketchfab controller)  
+## Control (Like sketchfab)  
 1. Tab and move: rotation camera .
 2. Pinch: Zoom in/out.
 3. Pan: three-finger drag.  
   
-## Support browser  
+## Support  
 https://caniuse.com/webgl2  
   
-## Package source  
-1. https://assetstore.unity.com/packages/tools/gui/responsive-webgl-template-117308
-5. https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
-3. https://github.com/ousttrue/UniGLTF
-4. https://github.com/Rufus31415/Simple-WebXR-Unity (Not test yet) 
+## Package  
+1. [responsive-webgl-template](https://assetstore.unity.com/packages/tools/gui/responsive-webgl-template-117308)
+5. [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+3. [UniGLTF](https://github.com/ousttrue/UniGLTF)
+4. [WebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) (Not test yet) 
 5. Post-processing 3 (From package manager)
 
 ## License

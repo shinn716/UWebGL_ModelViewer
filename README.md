@@ -29,9 +29,10 @@ https://caniuse.com/webgl2
   
 ## Package source  
 1. https://assetstore.unity.com/packages/tools/gui/responsive-webgl-template-117308
-2. https://github.com/ousttrue/UniGLTF
-3. https://github.com/Rufus31415/Simple-WebXR-Unity (Not test yet) 
-4. Post-processing 3 (From package manager)
+5. https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
+3. https://github.com/ousttrue/UniGLTF
+4. https://github.com/Rufus31415/Simple-WebXR-Unity (Not test yet) 
+5. Post-processing 3 (From package manager)
 
 ## License
 [MIT](https://github.com/shinn716/UWebGL_ModelViewer/blob/main/LICENSE)

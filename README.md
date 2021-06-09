@@ -28,6 +28,7 @@ Model from
 1. Tab and move: rotation camera .
 2. Pinch: Zoom in/out.
 3. Pan: three-finger drag.  
+4. Click: custom event. (see TriggerEvent.cs)
   
 ## Support  
 https://caniuse.com/webgl2  

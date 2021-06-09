@@ -4,7 +4,7 @@
 Unity WebGL - Model Viewer  
 Worked fine in Unity 2019.4.26f1.  
   
-Responsive-webgl-template bug fix fllowed from  
+Responsive-webgl-template bug fix from  
 https://gist.github.com/shinn716/519cbc79b2b6a5847b855ea43188d036.
   
 Model from  

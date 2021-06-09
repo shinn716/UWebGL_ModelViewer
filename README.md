@@ -8,7 +8,7 @@ Responsive-webgl-template bug fix from
 https://gist.github.com/shinn716/519cbc79b2b6a5847b855ea43188d036.
   
 Model from  
-https://sketchfab.com/3d-models/tr-66-rhythm-arranger-b58a105480dc4785ad39a3155476f7ec
+[TR-66 Rhythm Arranger](https://sketchfab.com/3d-models/tr-66-rhythm-arranger-b58a105480dc4785ad39a3155476f7ec)
     
 ## Feature
 1. Include standalone/mobile controller(rotation/pan/zoom).

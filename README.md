@@ -17,8 +17,8 @@ Model from
     
 ## Feature
 1. Include standalone/mobile controller(rotation/pan/zoom).
-2. With dialog module.
-3. With object-trigger event module.
+2. Include dialog module.
+3. Include object-trigger event module.
 4. Load model and config from custom ScriptableObject.
 5. With responsive template.
 6. Support GLTF.

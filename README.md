@@ -1,8 +1,10 @@
 # UWebGL_ModelViewer
-![image info](https://github.com/shinn716/UWebGL_ModelViewer/blob/main/images/gif01.gif)  
+![image info](./images/gif01.gif)  
+<img src="./images/img01.png" width="650" height="300" />
 
 Unity WebGL - Model Viewer  
 Worked fine in Unity 2019.4.26f1.  
+Platform: WebGL
   
 Responsive-webgl-template bug fix from  
 https://gist.github.com/shinn716/519cbc79b2b6a5847b855ea43188d036.

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e7b7b34ce64f44b098c623b4ee04479, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  WebglURL: http://www.unity3d.com
+  models:
+  - {fileID: 8097562187225533903, guid: 60e9aa2fdb50445388a6b232f796db94, type: 3}
+  - {fileID: 251369305667449646, guid: 07d102be31bf047eab84f6bd728b4508, type: 3}
+  EnableBtCustom: 0
+  EnableBtReset: 1
+  EnableBtLight: 1
+  EnableBtPause: 0
+  EnableBtFullscreen: 0
+  EnableBtConsole: 1
+  EnableFloor: 0
+  EnablePostProcessing: 1
+  ShowFPS: 1
+  Background: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}

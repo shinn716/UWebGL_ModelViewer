@@ -53,6 +53,7 @@ public class MaxCamera : MonoBehaviour
                 transform.localPosition = vec3Origin;
                 transform.localRotation = quaternionOrigin;
                 boolResetFlag = false;
+                isMouseDragging = false;
                 Init();
             }
 
@@ -170,7 +171,7 @@ public class MaxCamera : MonoBehaviour
 
     private void Zoom(float increment)
     {
-        fov += increment * 15;
+        fov += increment * 25;
         fov = Mathf.Clamp(fov, 5, 120);
         Camera.main.fieldOfView = Mathf.Lerp(Camera.main.fieldOfView, fov, Time.unscaledDeltaTime * zoomDampening);
     }
